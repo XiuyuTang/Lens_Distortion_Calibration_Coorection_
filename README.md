@@ -36,5 +36,5 @@ lens_calibration_project/
 
 ## 🧑‍💻 Author
 
-Xiuyu Tang – [LinkedIn](https://www.linkedin.com/in/your-link/)  
+Xiuyu Tang – [LinkedIn](https://www.linkedin.com/in/nicole-xiuyu-tang/)  
 MIT License
