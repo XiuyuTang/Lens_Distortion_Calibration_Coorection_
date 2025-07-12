@@ -20,6 +20,7 @@ In optical and metrology systems, precise calibration is essential to ensure the
 - NumPy / Matplotlib
 
 ## 📁 Structure
+
 lens_calibration_project/
 ├── calibration_images/ # Chessboard input images
 ├── src/
